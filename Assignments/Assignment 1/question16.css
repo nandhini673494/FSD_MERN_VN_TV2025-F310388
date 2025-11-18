@@ -1,0 +1,30 @@
+.inline-menu {
+  padding: 0;
+  margin: 0;
+}
+
+.inline-menu li {
+  display: inline;
+  margin-right: 20px;
+  background-color: aqua;
+}
+
+.block-menu {
+  padding: 0;
+  margin: 0;
+}
+
+.block-menu li {
+  display: block;
+  margin-bottom: 10px;
+  background-color: blue;
+}
+
+a {
+  color: grey;
+}
+
+a:hover {
+  color: goldenrod;
+}
+
