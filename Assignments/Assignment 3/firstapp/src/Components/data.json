@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Satya Nadella",
+    "role": "CEO, Microsoft",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Satya_Nadella_%28cropped%29.jpg"
+  },
+  {
+    "name": "Tim Cook",
+    "role": "CEO, Apple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Tim_Cook_2020.jpg"
+  },
+  {
+    "name": "Sheryl Sandberg",
+    "role": "Former COO, Meta",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sheryl_Sandberg_2013.jpg"
+  }
+]
