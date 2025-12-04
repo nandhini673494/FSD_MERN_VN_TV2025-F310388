@@ -1,0 +1,51 @@
+[
+{
+"faculty": ["Dr. Kumar","Dr. Meena","Prof. Suresh"],
+"labs": ["Programming Lab","Networks Lab"]
+},
+{
+"id": "it",
+"name": "Information Technology",
+"description": "The IT department emphasizes practical applications of computing and information systems.",
+"fullDescription": "The Information Technology department bridges computing and business needs with courses in web technologies, cloud computing, and cybersecurity.",
+"courses": ["Web Technologies","Cloud Computing","Cyber Security"],
+"faculty": ["Dr. Priya","Dr. Anand"],
+"labs": ["Web Lab","Security Lab"]
+},
+{
+"id": "ece",
+"name": "Electronics and Communication Engineering",
+"description": "ECE focuses on electronic systems, communications, and embedded devices.",
+"fullDescription": "ECE prepares students for careers in communications, VLSI, and embedded systems through lab work and design projects.",
+"courses": ["Analog Circuits","Digital Systems","Communication Systems"],
+"faculty": ["Dr. Ravi","Prof. Latha"],
+"labs": ["Electronics Lab","Communication Lab"]
+},
+{
+"id": "mech",
+"name": "Mechanical Engineering",
+"description": "Mechanical department covers design, thermodynamics, and manufacturing.",
+"fullDescription": "Mechanical Engineering offers strong training in machine design, materials, and manufacturing processes with practical workshops.",
+"courses": ["Mechanics","Thermodynamics","Manufacturing Processes"],
+"faculty": ["Dr. Arjun","Prof. Kavitha"],
+"labs": ["Workshop","CAD Lab"]
+},
+{
+"id": "civil",
+"name": "Civil Engineering",
+"description": "Civil deals with infrastructure, structural analysis, and construction.",
+"fullDescription": "Civil Engineering focuses on structural design, geotechnical engineering, and sustainable infrastructure development.",
+"courses": ["Structural Analysis","Geotechnical Engineering","Construction Management"],
+"faculty": ["Dr. Raj","Prof. Selvi"],
+"labs": ["Soil Lab","Concrete Lab"]
+},
+{
+"id": "mba",
+"name": "MBA",
+"description": "MBA program prepares students for management and entrepreneurship.",
+"fullDescription": "The MBA program includes finance, marketing, HR, and project work to prepare graduates for leadership roles.",
+"courses": ["Principles of Management","Accounting","Marketing"],
+"faculty": ["Dr. Nisha","Prof. Thomas"],
+"labs": ["Management Lab"]
+}
+]
